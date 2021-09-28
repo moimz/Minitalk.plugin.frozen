@@ -1,0 +1,12 @@
+/**
+ * 이 파일은 미니톡 자동인사 플러그인의 일부입니다. (https://www.minitalk.io)
+ *
+ * 플러그인 스타일시트
+ * 
+ * @file /plugins/frozen/style.css
+ * @author Arzz (arzz@arzz.com)
+ * @license MIT License
+ * @version 1.0.0
+ * @modified 2021. 9. 28.
+ */
+.tool_frozen {background-image:url(./images/microphone-off.svg); background-size:14px 14px !important;}

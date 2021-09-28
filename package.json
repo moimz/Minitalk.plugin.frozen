@@ -1,0 +1,17 @@
+{
+	"id":"com.moimz.minitalk.plugin.frozen",
+	"icon":"xi xi-microphone-slash",
+	"title":{
+		"ko":"채팅방얼리기 플러그인"
+	},
+	"version":"1.0.0",
+	"description":{
+		"ko":"미니톡 채팅방을 일시적으로 얼립니다."
+	},
+	"author":{
+		"name":"Arzz",
+		"email":"arzz@arzz.com"
+	},
+	"homepage":"https://www.minitalk.io",
+	"language":"ko"
+}
